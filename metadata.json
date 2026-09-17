@@ -1,0 +1,6 @@
+{
+  "name": "Blob AI",
+  "description": "Blob AI with Blob Flash, Blob Pro, and Blob Lite models, interactive Canvas with live game building, Google Search, and 24-piece jigsaw Pro unlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
